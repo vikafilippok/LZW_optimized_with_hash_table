@@ -1,0 +1,7 @@
+# ninja log v5
+1	110	7306739259283798	build.ninja	8abdc981f6498032
+1	87	7305845874858055	CMakeFiles/lzw_hash.dir/main.c.obj	2afc08278f6e924
+1	93	7305613705954780	CMakeFiles/lzw_hash.dir/gtbitio2.c.obj	3a54bae3b7f490ba
+87	257	7305845876103493	lzw_hash.exe	5af61cf9c27913c5
+14	107	7305842284839459	CMakeFiles/lzw_hash.dir/decompress.c.obj	7c6ee7c41688f6f6
+6	85	7305845874843008	CMakeFiles/lzw_hash.dir/gtbitio.c.obj	1fccd1d839596de8

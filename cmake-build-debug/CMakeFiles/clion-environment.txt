@@ -1,0 +1,4 @@
+ToolSet: 17.0 (local)@D:\Visual Studio
+Options: msvc.arch=amd64
+
+Options:-DCMAKE_MAKE_PROGRAM=C:/Users/dbrek/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe
